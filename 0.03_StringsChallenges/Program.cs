@@ -30,6 +30,19 @@ namespace _0._03_StringsChallenges
                 Console.WriteLine("{0,-20} {1,5:N1}", names[ctr], hours[ctr]);
             }
 
+            // Currency
+            double cash = 563.3265;
+            Console.WriteLine($"{cash:C}");
+
+            // Percentage
+            double exchangeRate = 0.25;
+            Console.WriteLine($"{exchangeRate:#0.##%}");
+            Console.WriteLine($"{exchangeRate:P}");
+
+            // Phone Number
+            long phoneNumber = 3173066750;
+            Console.WriteLine($"{phoneNumber:(###) ###-####}");
+
             // Silver Challenge
             string potentialEmployerName = "John Smith";
             Console.WriteLine($"Hello {potentialEmployerName},");
