@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{851F64A4-2B96-404F-B0AF-F813355548B0}</ProjectGuid>
+    <ProjectGuid>{E8711463-DAC5-423E-A0D2-30DA03CCF0FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._03_Strings</RootNamespace>
-    <AssemblyName>0.03_Strings</AssemblyName>
+    <RootNamespace>_0._03_StringsChallenges</RootNamespace>
+    <AssemblyName>0.03_StringsChallenges</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
