@@ -58,7 +58,6 @@ namespace _0._03_StringsChallenges
             Console.WriteLine($"{upUserName} and {lowUserName} are {(result1 ? "equal." : "not eqaul.")}"); 
             bool result2 = upUserName.Equals(lowUserName, StringComparison.OrdinalIgnoreCase); // should be equal
             Console.WriteLine($"{upUserName} and {lowUserName} are {(result2 ? "equal." : "not eqaul.")}");
-
         }
     }
 }
