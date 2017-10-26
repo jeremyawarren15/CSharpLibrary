@@ -1,6 +1,0 @@
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\bin\Debug\0.002_BasicTypes.exe.config
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\bin\Debug\0.002_BasicTypes.exe
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\bin\Debug\0.002_BasicTypes.pdb
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\obj\Debug\0.002_BasicTypes.csproj.CoreCompileInputs.cache
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\obj\Debug\0.002_BasicTypes.exe
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.002_BasicTypes\obj\Debug\0.002_BasicTypes.pdb

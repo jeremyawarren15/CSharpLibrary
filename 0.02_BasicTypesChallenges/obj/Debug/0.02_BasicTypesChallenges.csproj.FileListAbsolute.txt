@@ -1,6 +1,0 @@
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe.config
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.pdb
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.csproj.CoreCompileInputs.cache
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.exe
-C:\Users\jeremywarren\DotNetProjects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.pdb
