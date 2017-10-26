@@ -38,12 +38,8 @@ namespace _0._08_Arrays
             
             for (int i = 0; i < numbers.Length; i++)
             {
-                numbers[i] = rnd.Next();
-            }
-
-            foreach (var num in numbers)
-            {
-                Console.WriteLine(num);
+                numbers[i] = rnd.Next(0,100);
+                Console.WriteLine(numbers[i]);
             }
         }
     }
