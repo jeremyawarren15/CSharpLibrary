@@ -39,19 +39,6 @@ namespace _0._08_CollectionsDictionarys
                 Console.Write("\n");
             }
 
-            // Gold
-            Console.WriteLine("Please type a year in the space below to show the movie that won:");
-            string response1 = Console.ReadLine();
-
-            Console.WriteLine(academyAwards[Convert.ToInt32(response1)]);
-
-            Console.WriteLine("Please type a year to show the movies that were up for an award that year:");
-            string response2 = Console.ReadLine();
-
-            foreach (var movie in bestPictureNominees[Convert.ToInt32(response2)])
-            {
-                Console.WriteLine(movie);
-            }
         }
     }
 }
