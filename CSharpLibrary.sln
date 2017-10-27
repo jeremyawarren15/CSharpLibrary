@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_CollectionsArrays", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_CollectionsDictionaries", "0.08_CollectionsDictionarys\0.08_CollectionsDictionaries.csproj", "{ED9492EC-1430-42AA-9127-8C11BFD5EC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors", "0.09_Constructors\0.09_Constructors.csproj", "{8C80FD0E-D245-4E09-B02A-3D725B295D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_ConstructorsChallenges", "0.09_ConstructorsChallenges\0.09_ConstructorsChallenges.csproj", "{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{ED9492EC-1430-42AA-9127-8C11BFD5EC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED9492EC-1430-42AA-9127-8C11BFD5EC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED9492EC-1430-42AA-9127-8C11BFD5EC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C80FD0E-D245-4E09-B02A-3D725B295D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C80FD0E-D245-4E09-B02A-3D725B295D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C80FD0E-D245-4E09-B02A-3D725B295D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C80FD0E-D245-4E09-B02A-3D725B295D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

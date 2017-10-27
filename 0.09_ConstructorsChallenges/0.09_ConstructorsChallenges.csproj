@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C80FD0E-D245-4E09-B02A-3D725B295D3B}</ProjectGuid>
+    <ProjectGuid>{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._09_Constructors</RootNamespace>
-    <AssemblyName>0.09_Constructors</AssemblyName>
+    <RootNamespace>_0._09_ConstructorsChallenges</RootNamespace>
+    <AssemblyName>0.09_ConstructorsChallenges</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MobilePhone.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
