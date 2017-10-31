@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0._11_OOPGameBuildAlong
 {
-    class Enemy
+    class Enemy: Character
     {
     }
 }

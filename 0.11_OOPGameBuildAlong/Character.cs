@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0._11_OOPGameBuildAlong
 {
-    class Character
+    public abstract class Character
     {
         // Constants
         const int MIN_HEALTH = 0;
@@ -20,6 +20,19 @@ namespace _0._11_OOPGameBuildAlong
         public int Energy { get; set; }
         public double CritChance { get; set; }
 
+        // Methods
+        public int Attack()
+        {
+            Random rnd = new Random();
+            int spread = rnd.Next(-5, 6);
+            int damage = this.AttackPower + spread;
+            return IsCritical() ? damage *= 2 : damage;
+        }
 
+        public bool IsCritical()
+        {
+            Random rnd = new Random();
+            return rnd.Next(0, 101) < (this.CritChance * 100) ? true : false;
+        }
     }
 }
