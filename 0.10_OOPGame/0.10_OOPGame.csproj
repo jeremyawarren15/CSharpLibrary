@@ -7,7 +7,7 @@
     <ProjectGuid>{2F44F67C-0A7D-4201-A852-5D167583A8DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._10_OOPGame</RootNamespace>
-    <AssemblyName>_0._10_OOPGame</AssemblyName>
+    <AssemblyName>0.10_OOPGame</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Character.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

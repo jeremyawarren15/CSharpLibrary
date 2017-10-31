@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors", "0.09_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_ConstructorsChallenges", "0.09_ConstructorsChallenges\0.09_ConstructorsChallenges.csproj", "{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_OOPGame", "0.10_OOPGame\0.10_OOPGame.csproj", "{2F44F67C-0A7D-4201-A852-5D167583A8DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB089C6-E342-4C8D-BBE7-4C53CD9C9747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F44F67C-0A7D-4201-A852-5D167583A8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F44F67C-0A7D-4201-A852-5D167583A8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F44F67C-0A7D-4201-A852-5D167583A8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F44F67C-0A7D-4201-A852-5D167583A8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
