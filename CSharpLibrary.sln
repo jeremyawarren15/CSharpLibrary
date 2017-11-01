@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_MethodsOverloading", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GettersSetters", "0.13_GettersSetters\0.13_GettersSetters.csproj", "{EBBE8EC1-06B8-4BDF-82A2-BA083C456C69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Override", "0.14_Override\0.14_Override.csproj", "{A383BA36-616D-491F-81D3-97B9CF9A4A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.15_Linq", "0.15_Linq\0.15_Linq.csproj", "{F83BCF0E-2DB3-423A-9441-47E767636039}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{EBBE8EC1-06B8-4BDF-82A2-BA083C456C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBBE8EC1-06B8-4BDF-82A2-BA083C456C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBBE8EC1-06B8-4BDF-82A2-BA083C456C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A383BA36-616D-491F-81D3-97B9CF9A4A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A383BA36-616D-491F-81D3-97B9CF9A4A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A383BA36-616D-491F-81D3-97B9CF9A4A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A383BA36-616D-491F-81D3-97B9CF9A4A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83BCF0E-2DB3-423A-9441-47E767636039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83BCF0E-2DB3-423A-9441-47E767636039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83BCF0E-2DB3-423A-9441-47E767636039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83BCF0E-2DB3-423A-9441-47E767636039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
