@@ -19,6 +19,13 @@ namespace _0._13_GettersSetters
             newEmployee.ID = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine($"New Employee: {newEmployee.Name} {newEmployee.ID}");
+
+            // Set work quote
+            Console.WriteLine($"Enter a common quote for {newEmployee.Name}");
+            newEmployee.SetWorkQuote(Console.ReadLine());
+
+            // Get work quote
+            Console.WriteLine(newEmployee.GetQuote());
         }
     }
 }

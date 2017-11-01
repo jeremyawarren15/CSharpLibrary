@@ -11,6 +11,7 @@ namespace _0._13_GettersSetters
         // Backing Field
         private int _id;
         private string _name;
+        private string _workQuote;
 
         // Properties
         public int ID
@@ -41,5 +42,15 @@ namespace _0._13_GettersSetters
             }
         }
 
+        // Methods
+        public void SetWorkQuote(string quote)
+        {
+            this._workQuote = quote;
+        }
+
+        public string GetQuote()
+        {
+            return this._workQuote;
+        }
     }
 }
