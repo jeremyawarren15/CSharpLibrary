@@ -122,6 +122,11 @@ namespace _0._11_OOPGameBuildAlong
                     synth.Speak("What!?!?! NOOOOOOOOOOOOOOOO!");
                 }
             }
-        } 
+        }
+            public static void PrintAndSpeak()
+            {
+
+            }
+         
     }
 }
