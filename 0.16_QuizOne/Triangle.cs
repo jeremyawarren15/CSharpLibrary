@@ -8,23 +8,43 @@ namespace _0._16_QuizOne
 {
     class Triangle : Shape
     {
+        // Backing Fields
+        private double _tBase;
+        private double _tHeight;
+
         // Constructors
         public Triangle(int tBase, int height)
         {
             this.TBase = tBase;
-            this.Height = height;
+            this.THeight = height;
             this.TArea = this.Area();
         }
 
         // Properties
-        public int TBase { get; set; }
-        public int Height { get; set; }
+        public double TBase
+        {
+            get { return _tBase; }
+            set
+            {
+                this.Area();
+                _tBase = value;
+            }
+        }
+        public double THeight
+        {
+            get { return _tHeight; }
+            set
+            {
+                this.Area();
+                _tHeight = value;
+            }
+        }
         public double TArea { get; set; }
 
         // Methods
         public override double Area()
         {
-            this.TArea = (this.Height * this.TBase) / 2.0;
+            this.TArea = (this.THeight * this.TBase) / 2.0;
             return this.TArea;
         }
     }
