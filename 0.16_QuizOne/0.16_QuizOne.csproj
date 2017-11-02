@@ -7,7 +7,7 @@
     <ProjectGuid>{1F107E1C-DAB3-4580-9954-FD561540F733}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._16_QuizOne</RootNamespace>
-    <AssemblyName>_0._16_QuizOne</AssemblyName>
+    <AssemblyName>0.16_QuizOne</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
