@@ -10,6 +10,7 @@ namespace _0._16_QuizOne
     {
         static void Main(string[] args)
         {
+            // Part One
             List<Triangle> shapes = new List<Triangle>
             {
                 new Triangle(4, 5),
@@ -19,8 +20,9 @@ namespace _0._16_QuizOne
                 new Triangle(2, 3)
             };
 
+            // Part Two
             var query = from s in shapes
-                        where s.TArea > 4.0
+                        where s.TArea > 5.0
                         orderby s.TArea ascending
                         select s;
 
