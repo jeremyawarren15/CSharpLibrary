@@ -14,7 +14,7 @@ namespace _0._17_Interfaces_Collections_Pseudo
             ListClass exampleListClass = new ListClass();
 
             exampleArrayClass.CheckTheCapacity();
-            exampleListClass.CheckTheCapacity();\
+            exampleListClass.CheckTheCapacity();
         }
     }
 }

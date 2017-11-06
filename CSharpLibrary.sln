@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_QuizOne", "0.16_QuizOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17_Interfaces_Collections_Pseudo", "0.17_Interfaces_Collections_Pseudo\0.17_Interfaces_Collections_Pseudo.csproj", "{84446B50-E2DA-4614-A773-683F46F71D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.18_Lambda", "0.18_Lambda\0.18_Lambda.csproj", "{05F0CA6B-1BEB-4A18-945C-A8B6C79800AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{84446B50-E2DA-4614-A773-683F46F71D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84446B50-E2DA-4614-A773-683F46F71D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84446B50-E2DA-4614-A773-683F46F71D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F0CA6B-1BEB-4A18-945C-A8B6C79800AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F0CA6B-1BEB-4A18-945C-A8B6C79800AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F0CA6B-1BEB-4A18-945C-A8B6C79800AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F0CA6B-1BEB-4A18-945C-A8B6C79800AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
